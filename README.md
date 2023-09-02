@@ -1,16 +1,16 @@
-### Hi there 👋
+## Welcome 😊
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohmedeiros/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ph66ng2@gmail.com)
 
-<!--
-**ph66ng2/ph66ng2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![I JUST LIKE HIM](https://media.giphy.com/media/26tPcgtbhhbU88U2A/giphy.gif)
 
-Here are some ideas to get you started:
+📚 ° Studing Systems Development at SENAI-BA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Dev Things
+![Paulo (ph66ng2) GitHub stats](https://github-readme-stats.vercel.app/api?username=ph66ng2&theme=aura&show_icons=true)
+
+
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ph66ng2&layout=donut-vertical)](https://github.com/ph66ng2/Java)
+
+
