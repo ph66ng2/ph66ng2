@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohmedeiros/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ph66ng2@gmail.com)
 
-![I JUST LIKE HIM](https://media.giphy.com/media/26tPcgtbhhbU88U2A/giphy.gif)
+![I JUST LIKE HIM](https://media.giphy.com/media/26FxIJDQU6KcJcMEw/giphy.gif)
 
 📚 ° Studing Systems Development at SENAI-BA
 
