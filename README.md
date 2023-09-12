@@ -4,7 +4,7 @@
 
 ![I JUST LIKE HIM](https://media.giphy.com/media/26FxIJDQU6KcJcMEw/giphy.gif)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ph66ng2)](https://open.spotify.com/user/jeffreyca16)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ph66ng2)](https://open.spotify.com/user/22ako765cgh5jibuwhg4qai3a?si=oKXqwi6GRyS-j3PIUB-3Ow)
 
 📚 ° Studing Systems Development at SENAI-BA
 
