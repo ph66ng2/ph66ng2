@@ -12,6 +12,6 @@
 ![Paulo (ph66ng2) GitHub stats](https://github-readme-stats.vercel.app/api?username=ph66ng2&theme=aura&show_icons=true)
 
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ph66ng2&layout=donut-vertical)](https://github.com/ph66ng2/Java)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ph66ng2&layout=donut-vertical)](https://github.com/ph66ng2/)
 
 
