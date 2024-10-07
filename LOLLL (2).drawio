@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3027" dy="2279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="2057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -57,7 +57,10 @@
         <mxCell id="2f69EOF7472B6ffrq0w6-6" value="Oitanashi" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-257" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2f69EOF7472B6ffrq0w6-8" value="Culto de Miyamoto" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="-AoFew_JMnp-iKag9qdl-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2f69EOF7472B6ffrq0w6-8" target="JpJ4IIXiDhFayjSi2Thl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2f69EOF7472B6ffrq0w6-8" value="Guilda dos Ladrões Palidos" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-620" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="db7mMcc1uw4tu3ybIJSg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2f69EOF7472B6ffrq0w6-10" target="db7mMcc1uw4tu3ybIJSg-5" edge="1">
@@ -123,7 +126,7 @@
         <mxCell id="JpJ4IIXiDhFayjSi2Thl-12" value="Carvaleiros Purpura" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-620" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52FwS_vxHeN8LU45DflL-0" value="os alunos SE JUNTAO COM mODEKAINEN PARA QUE ELES JUNTOS POSSAM O AJUDAR A ACHAR A NEVOA NEGRA DOS VISTAYA. COM ISSO MORDEKAINEN E O PROFESSOR DE ARTES DAS TREVAS VAN HELSING" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="52FwS_vxHeN8LU45DflL-0" value="os alunos SE JUNTAO COM mODEKAINEN PARA QUE ELES JUNTOS POSSAM O AJUDAR A ACHAR A NEVOA NEGRA DOS VISTAYA. COM ISSO MORDEKAINEN E O PROFESSOR DE ARTES DAS TREVAS VAN HELSING" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1550" y="-20" width="430" height="260" as="geometry" />
         </mxCell>
       </root>
